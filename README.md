@@ -17,7 +17,7 @@ The project is structured as follows:
 
 Here's a screenshot of the tribute page:
 
-![Tribute Page Preview]()
+![Heath Ledger Tribute Page Preview](https://github.com/krushnarout/Tribute-page/assets/129386740/3cdaa202-6fe4-4953-82fb-6626cfc85e2e)
 
 
 ## Resources
