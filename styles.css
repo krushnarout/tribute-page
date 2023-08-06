@@ -77,6 +77,7 @@ blockquote {
 
 img {
   max-width: 100%;
+  text-align: center;
   height: auto;
   display: block;
   border: 6px solid rgb(102, 102, 102);
